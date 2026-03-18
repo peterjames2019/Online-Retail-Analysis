@@ -1,6 +1,0 @@
-# 📊 E-Commerce Customer Segmentation using RFM & K-Means Clustering
-
-## 📌 Project Overview
-In this project, I performed a deep-dive analysis of a large-scale e-commerce transactional dataset. The goal was to move beyond simple sales tracking and instead categorize customers into distinct behavioral segments. By using **RFM Analysis** and **Machine Learning (K-Means)**, I identified specific customer personas to help drive targeted marketing strategies.
-
----
