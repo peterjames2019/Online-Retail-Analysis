@@ -41,7 +41,7 @@ Based on the model's output, I identified the following four business segments:
 | **💤 Hibernating** | High recency (haven't shopped in 6+ months). | Re-activation campaigns with "We miss you" deep discounts. |
 
 ### Visualizing the Customer Base
-![Customer Segmentation Treemap](images\Customer_Segmentation_Treemap.png)
+![Customer Segmentation Treemap](images/Customer_Segmentation_Treemap.png)
 *The treemap above illustrates the relative size of each customer segment.*
 
 ---
