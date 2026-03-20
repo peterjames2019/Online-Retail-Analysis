@@ -96,7 +96,7 @@ pip install pandas scikit-learn matplotlib seaborn
 
 ## 📬 Contact & Portfolio
 If you have any questions about this project or would like to discuss potential collaborations, feel free to reach out!
-
+* **Portfolio** [https://peterjames2019.github.io/]
 
 * **LinkedIn:** [linkedin.com/in/Favour Peter](https://www.linkedin.com/in/favour-peter-43b330263/) 💼
 * **Email:** [clipking19official@gmail.com](clipking19official@gmail.com) 📧
