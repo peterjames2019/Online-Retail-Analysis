@@ -92,6 +92,12 @@ Install the required Python libraries via terminal or command prompt:
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
 ```
+
+## 📖 Project Documentation
+I published a comprehensive technical walkthrough of this analysis on Medium, detailing the data cleaning process, RFM logic, and K-Means clustering results.
+
+🔗 **[Read the Full Article on Medium](https://medium.com/@peterojonugwa2019/from-raw-transactions-to-growth-strategy-a-deep-dive-into-customer-segmentation-5044c30b996b)**
+
 ---
 
 ## 📬 Contact & Portfolio
